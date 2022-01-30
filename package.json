@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "an rpg designed during module 10 of the university of utah web dev bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTemp3/jest-another-rpg.git"
+  },
+  "author": "Trevor Templin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CTemp3/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/CTemp3/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
